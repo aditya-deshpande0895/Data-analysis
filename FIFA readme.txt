@@ -1,0 +1,1 @@
+FIFA data set consists of information about players and their oveerall track record. Before performing any king of modelling pre processing is required. In the file uploaded data pre processing is performed which included converting columns into numeric columns and missing value imputation.
